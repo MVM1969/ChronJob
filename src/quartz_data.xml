@@ -9,7 +9,7 @@
     <schedule>
         <job>
             <name>TestJob</name>
-            <job-class>com.biogen.chron.TestJob</job-class>
+            <job-class>com.mvm.ticktock.TestJob</job-class>
         </job>
         <trigger>
             <cron>
